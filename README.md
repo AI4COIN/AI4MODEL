@@ -9,6 +9,7 @@
 
 <h1 align="center">AI4MODEL</h1>
 <p align="center">Model-backed access tokens on the fictional <b>4444.four</b> network. <br>Train → Package → Deploy → Meter with <b>$AI4</b>.</p>
+<p align="center"> 0x4e94837171e9eDc02Cad8F74a199B5f2f1394444  </p>
 
 <p align="center">
   <a href="https://twitter.com/AI4MODEL"><img alt="Follow on X" src="https://img.shields.io/badge/follow-@AI4MODEL-1DA1F2?logo=x&logoColor=white"></a>
