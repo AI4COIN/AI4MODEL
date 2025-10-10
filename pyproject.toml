@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai4"
+version = "0.1.0"
+description = "AI4: model-backed token mock for the fictional 4444.four network"
+readme = "README.md"
+authors = [{name="AI4 Maintainers", email="maintainers@example.com"}]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.20"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.5", "black>=24"]
+
+[project.scripts]
+ai4 = "ai4.cli:main"
